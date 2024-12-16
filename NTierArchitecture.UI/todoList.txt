@@ -8,7 +8,6 @@ Order-OrderDetail
 3-Validation		(10 dk)
 Order-OrderDetail
 
-Part 1: 11:30'a kadar tamamlanacak.
 
 Part 2: (15 dk)
 4-Tüm ürünleri listbox'ta listeyen ve 3 harf ile aktif olan arama kýsmýný aktif hale getir.
